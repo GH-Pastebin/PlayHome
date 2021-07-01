@@ -8,6 +8,11 @@
 ![Paypal](https://i.imgur.com/3V57ymK.png") [`Donate`](https://paypal.me/PastebinSupport?locale.x=en_US)
 --
 
+---
+**[News]** 
+--
+- [`Anon11/DeathWeasel`](https://www.patreon.com/posts/53085409)
+
 --- 
 **[FAQ]**
 --
