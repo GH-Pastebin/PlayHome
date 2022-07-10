@@ -51,7 +51,7 @@
 **[English Translation]**
 --
 - [`PH_English_Translation`](http://www.mediafire.com/file/rmn2yyffmn1ubhx/PlayHome_English_Translation.rar/file) 
-- [`PH_English_Launcher`](http://www.mediafire.com/file/eyzggh50a5bhzm0/PlayHome_English_Launcher.rar/file)
+- [`PH_English_Launcher_v3.3.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 
 ---
  **[Mod Archive]**
