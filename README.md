@@ -1,7 +1,7 @@
 (プレイホーム) - PlayHome
 --
 
-![Logo](https://i.imgur.com/zTYOMiq.png")
+![Logo](https://i.imgur.com/zTYOMiq.png") 
 --
 
 ---
